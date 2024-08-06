@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Bibekananda Barik</h1>
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m currently working on java
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: bibekkumar29177@gmail.com
