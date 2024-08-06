@@ -21,7 +21,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,html,js,nodejs,react,github,git,css,aws,c,mongodb&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,js,nodejs,github,git,css,aws,c,mongodb&perline=5)](https://skillicons.dev)
 
 ![Bibeks GitHub stats](https://github-readme-stats.vercel.app/api?username=Bibek9178123&show_icons=true&theme=dark)
 
