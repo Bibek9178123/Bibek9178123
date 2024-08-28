@@ -29,4 +29,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/Bibek9178123)
+⭐️ From [Bibek](https://github.com/Bibek9178123)
