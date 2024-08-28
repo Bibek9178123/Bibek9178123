@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on java
 - 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
+- 💬 Ask me anything about Anything 
 - 📫 How to reach me: bibekkumar29177@gmail.com
 - 😄 My website:?
 - ⚡ Fun fact: I'm comming to teen
